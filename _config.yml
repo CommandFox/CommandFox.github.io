@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://CommandFox.github.io
+title: Jacques' Journal
+email: marais.jacques12@gmail.com
+author: Jacques Marais
+description: My blog about web design/development, programming, gaming and other interesting stuff.
+paginate: 5
+google_analytics: 
